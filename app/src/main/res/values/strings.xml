@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Kamyab Cash Register</string>
+    <string name="product_type">Product type</string>
+    <string name="manager">manager</string>
+    <string name="totalPrice">Total</string>
+    <string name="quantity">quantity</string>
+    <string name="buy">BUY</string>
+    <string name="history">HISTORY</string>
+    <string name="restock">RESTOCK</string>
+    <string name="enter_new_quantity">Enter New Quantity</string>
+    <string name="ok">OK</string>
+    <string name="cancel">cancel</string>
+</resources>
